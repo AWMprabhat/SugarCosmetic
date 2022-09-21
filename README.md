@@ -1,73 +1,56 @@
-## Deploy Link
-https://sigarmehnat.netlify.app/
+# Collaborative Project At Masai School “SUGAR Cosmetics-Clone”.
+> We were 6 members of team,
 
-# Getting Started with Create React App
+        Prabhat Bhardwaj (me)
+        Riya Girish Shah
+        Kiran Digambar Kamble
+        Shivam Sunil Rathod
+        Prabhat Singh
+        Sharang Ahirekar
+        
+Our Team was given the Project creating a pixel perfect clone of SUGAR Cosmetics and we were given a week’s time to complete the project.
+We were excited and a bit nervous at the same time as we had to complete everything within a given time frame.
+Being patient and focused helped us a lot to figure out what to do and how exactly to apply all the learnings that we did in this unit. 
+By Planning and dividing the work efficiently we started our work.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Project Details:-
+> SUGAR Cosmetics is an Indian e-commerce company, founded by Vineeta Singh (Co-founder and CEO) and Kaushik Mukherjee (Co-founder and COO) in 2015, with its headquarters in Mumbai. It focuses on selling makeup and skincare products
 
-## Available Scripts
+* Landing Page :
+>
+This is the main landing page of our website. Here clicking on any option on the Navbar will redirect the user to the respective Page. Here the user can search for the required products using the Live Search.
+In the top section, there is a Header that displays the Dropdown menu of pages.
+At the bottom section, there is a footer, both Header & Footer are the same across all the pages.
 
-In the project directory, you can run:
+* Register/Login Page :
+> Existing user can Login and new user’s can Register themselves.
+Here the User can Register themself onto the website and experience a smooth purchase simply by verifying their number using OTP.
 
-### `npm start`
+* Products and Services:-
+> * Product page:
+On the navbar, we have different categories like Makeup, brushes, skincare, etc. So when we click on the desired page for example makeup, will redirect us to the respective page. This makeup page had three sub-categories like Lips, Face, and Eyes.They all have a few common features as,
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> * Items can be filtered according to the Price
+Add Item to Wishlist or Cart
+Update or Delete Item
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Cart page:
+> This is the cart page, On this page, you can see all products that have been added to the cart with the total price. From here you either can increase /decrease quantity or you can remove the respective product from the cart
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Payment page:
+> After finalizing items users can go to checkout and choose any payment method, on placing an order.
 
-### `npm run build`
+# Challenges:-
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We had faced a lot of issues in cloning the website. We faced some issues in merging cart data to the cart sidebar on all pages. But after some time we are able to do it. We also sometimes had to fix some issues related to merging our code through the git hub.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Now answering the big question of how we did it, I would like to say that it is because of the effort that everyone put in. I and my wonderful teammates had, we able to achieve our goal. As part of Masai school, we have always believed that communication and skills are greater than knowledge so it is because of effective communication and sheer will to understand complicated things and make them simple to understand, that we were able to create the page with comparatively fewer resources.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* deployed link:- 
+* > https://sigarmehnat.netlify.app/
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# THANK YOU…! 
+*hit a Start ⭐*
